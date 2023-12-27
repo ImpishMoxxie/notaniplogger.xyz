@@ -6,7 +6,7 @@
 
 <main>
     <center>
-        <div class="funnyshape">
+        <div class="mainborder">
             <img src="https://adu.shiggy.fun/v1/712653921692155965/avatar" alt="" class="img-avatar">
             <h1 class="my-name">Moxxie</h1>
             <h1>Just your casual imp (Not a POSSUM!)</h1>
@@ -18,7 +18,7 @@
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
 
-    .funnyshape{
+    .mainborder{
         margin-right: 25%;
         margin-left: 25%;
         border: 0.3em solid black;
