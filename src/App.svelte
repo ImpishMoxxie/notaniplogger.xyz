@@ -1,5 +1,7 @@
 <script>
     import Sexcounter from "./lib/sexcounter.svelte";
+    import Funnyshape from "./lib/funnyshape.svelte";
+    import Kiwi from "./assets/Snapchat-1320868886.jpg"
 </script>
 
 <main>
@@ -8,6 +10,7 @@
             <img src="https://adu.shiggy.fun/v1/712653921692155965/avatar" alt="" class="img-avatar">
             <h1 class="my-name">Moxxie</h1>
             <h1>Just your casual imp (Not a POSSUM!)</h1>
+            <Funnyshape funny1 = {Kiwi}></Funnyshape>
         </div>
     </center>
 </main>
